@@ -1,4 +1,4 @@
-name: 'check-cve'
+name: '@anna-money/check-cve'
 description: 'Send GitHub vulnerability alerts to multiple platforms like Slack, PagerDuty.'
 author: '@kunalnagar'
 inputs:
